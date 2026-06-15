@@ -1,0 +1,22 @@
+.detail {
+  padding: 0 8px 8px;
+  border-top: 1px solid var(--border);
+  overflow-x: auto;
+}
+
+.detail table {
+  font-size: 12px;
+}
+
+.detail th, .detail td {
+  padding: 8px 10px;
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 14px;
+  border-top: 1px solid var(--border);
+}
