@@ -136,3 +136,4 @@ Backend → Socket.IO → Frontend:
 | `device:done` | Завершение устройства |
 | `session:done` | Завершение всей сессии |
 "# Backup_new" 
+"# Backup_new" 
